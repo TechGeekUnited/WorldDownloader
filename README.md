@@ -1,4 +1,4 @@
-This is not the official World Downloader Branch!
+This is not the official World Downloader Fork!
 
 # World Downloader v4
 
